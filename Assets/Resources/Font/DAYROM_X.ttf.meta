@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8d7c22ec5ce41794893e934bb716fabf
+timeCreated: 1485055851
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Day Roman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3298d4f420561e04ea4fff2a63d76cea, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
